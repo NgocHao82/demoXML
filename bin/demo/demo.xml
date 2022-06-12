@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="111">
+        <firstName>ngochao</firstName>
+        <lastName>do</lastName>
+        <location>vietnam</location>
+    </employee>
+    <employee id="222">
+        <firstName>kien</firstName>
+        <lastName>hoang</lastName>
+        <location>japan</location>
+    </employee>
+    <employee id="333">
+        <firstName>bao</firstName>
+        <lastName>gia</lastName>
+        <location>korea</location>
+    </employee>
+</employees>
